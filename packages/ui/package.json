@@ -1,0 +1,8 @@
+{
+  "name": "@muthur/ui",
+  "main": "./index.ts",
+  "devDependencies": {
+    "svelte": "^5.0.0-next.35",
+    "svelte-check": "^3.6.0"
+  }
+}
